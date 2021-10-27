@@ -49,7 +49,7 @@ int main() {
 
     }
      start = clock();
-    insertionSort(n, arr);
+    insertionSort(N, arr);
      end = clock();
     printf("Total time taken by insertion sort for Worst Case is : %f\n\n", (double)(end - start)/(double)CLOCKS_PER_SEC);
   return 0;
