@@ -1,3 +1,6 @@
+//Kumbham Nuthan Manideep
+//2012103
+
 #include<stdio.h>
 
 long long compute_hash(char *s) 
